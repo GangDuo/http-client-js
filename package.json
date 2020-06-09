@@ -1,0 +1,19 @@
+{
+  "name": "http-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GangDuo/http-client-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GangDuo/http-client-js/issues"
+  },
+  "homepage": "https://github.com/GangDuo/http-client-js#readme"
+}
